@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created to fulfill the final project in the Generation Gigih track Frontend Engineering.
+
+## Documentation
+
+### Name & Description
+
+Application name : Playlist Spotify
+Description : Dengarkanlah lagu untuk merasa lebih tenang
 
 ## Available Scripts
 
@@ -14,12 +22,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-<img src="image/Screenshot (136)"/>
+### `npm run test`
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Launch the test by creating a test file in the folder you want to test then when you have added test then in the terminal click npm run test
 
 ### `npm run build`
 
@@ -30,6 +35,10 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run lint`
+
+npm run lint is used to check the code that has been made and find out if there is an error or not. If there is, then you can immediately change it according to the correct code. So the code that is made will be neater.
 
 ### `npm run eject`
 
@@ -70,3 +79,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### Vercel
+
+In this project, we use Vercel. Just by pushing the project to GitHb, the project created will be built and deployed automatically.
