@@ -1,0 +1,12 @@
+.Form {
+    background-color: black;
+    margin: 5px;
+    color: white;
+    margin-right: 50px;
+    border: 1px solid white;
+    border-radius: 15px;
+}
+
+.Form-footer {
+    margin: 5px 0px;
+}

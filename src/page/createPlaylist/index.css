@@ -1,0 +1,25 @@
+.create-playlist{
+    display: grid;
+    color: black;
+    margin-left: 30px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.search-bar{
+    display: grid;
+    justify-content: center;
+}
+
+.songs{
+    justify-items: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+button {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #5c442d;
+    color: white;
+}

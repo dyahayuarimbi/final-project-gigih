@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+.Card {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid white;
+    border-radius: 15px;
+    padding: 10px;
+    width: 350px;
+    background-color: black;
+    margin: 10px;
+    float: left;
+}
+
+.card-wrapper {
+    flex-direction: column;
+}
+
+.card_img {
+    width: 140px;
+    height: 140px;
+    border: 1px;
+    border-radius: 15px;
+}
+
+.card_album {
+    color: white;
+    font-size: 20px;
+    border: none;
+    margin: 10px;
+}
+
+.card_artist {
+    color: white;
+    font-size: 15px;
+    margin: 10px;
+}
+
+.card_duration {
+    color: white;
+    font-size: 12px;
+}
+
+.btn-select {
+    margin-left: 10px;
+}

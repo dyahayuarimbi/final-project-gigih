@@ -1,0 +1,24 @@
+#link-login {
+    font-size: 25px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 3px solid black;
+    background-color: green;
+    color: white;
+    background-image: url("https://play-lh.googleusercontent.com/UrY7BAZ-XfXGpfkeWg0zCCeo-7ras4DCoRalC_WXXWTK9q5b0Iw7B0YQMsVxZaNB7DM");
+    background-repeat: no-repeat;
+    background-size: 15%;
+    background-position-y: 20%;
+    padding-left: 40px !important;
+    position: absolute;
+    left: 43%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 250px;
+}
+
+h2 {
+    text-align: center;
+}
